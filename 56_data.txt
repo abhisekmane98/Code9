@@ -1,0 +1,7 @@
+56_trying_command_line_arguments_.exe
+abhishek
+loves
+roha
+32
+4
+4
